@@ -67,16 +67,28 @@ Sergio</a></h1>
 <p align="center">
     <i>Follow me:</i>
     <br/><br/>
-    <a href="https://github.com/matheusfelipeog" target="_blank">
+    <a href="https://github.com/cineciax" target="_blank">
         <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
     </a>
-    <a href="https://t.me/matheusfelipeog" target="_blank">
+    <!--<a href="https://t.me/matheusfelipeog" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
-    </a>
-    <a href="https://www.linkedin.com/in/matheusfelipeog" target="_blank">
+    </a>-->
+    <a href="https://www.linkedin.com/in/sergio-yampier-sandoval-castillo/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
     </a>
-    <a href="mailto:matheusfelipeog@protonmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="Bradge ProtonMail" />
+    <a href="mailto:sergio.sc120692@g.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Bradge ProtonMail" />
+    </a>
+    <a href="https://www.youtube.com/@cineciax-y4b" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Bradge ProtonMail" />
+    </a>
+    <a href="https://www.facebook.com/cineciax" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Bradge ProtonMail" />
+    </a>
+    <a href="https://www.twitch.tv/cineciax" target="_blank">
+        <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Bradge ProtonMail" />
+    </a>
+    <a href="https://www.tiktok.com/@cineciax" target="_blank">
+        <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Bradge ProtonMail" />
     </a>
 </p>
