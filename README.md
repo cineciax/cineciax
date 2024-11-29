@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://cineciax.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+Sergio</a></h1>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cineciax&label=Profile%20views&color=0e75b6&style=flat" alt="cineciax" /> </p>
 
@@ -10,19 +10,19 @@ Saurabh</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working in <a href="https://quetalcompra.com/" target="blank">Grupo QTC</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Java and Angular
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/cineciax/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Laravel
 
-- 📝 I regularly write articles on [https://dev.to/cineciax](https://dev.to/cineciax)
+<!--- 📝 I regularly write articles on [https://dev.to/cineciax](https://dev.to/cineciax)-->
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **java & Angular**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **sergio.sc120692@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/cineciax/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
@@ -59,13 +59,13 @@ Saurabh</a></h1>
     <a href="https://github.com/cineciax/"><img src="https://img.shields.io/github/followers/cineciax?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/cineciax?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
-    <a href="mailto:garssallaoui.bayrem@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+    <a href="mailto:sergio.sc120692@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
     <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
   </p>
 </p>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
-    <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
+    <i>Follow me:</i>
     <br/><br/>
     <a href="https://github.com/matheusfelipeog" target="_blank">
         <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
