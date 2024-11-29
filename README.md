@@ -24,7 +24,7 @@ Sergio</a></h1>
 
 - 📫 How to reach me **sergio.sc120692@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/cineciax/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/cineciax/me.io/blob/main/CV%20Sergio_.pdf" target="blank">Resume</a>
 <br/>
 
 <div>
